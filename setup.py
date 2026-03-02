@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='edprompt',
     version='0.0.1',
-    description='python shell prompt cli editor joke saver prompt bloody hell lmao 🤣🤣🤣',
+    description='edprompt runtime enviroment',
     author='du7ec',
     author_email='dutec6834@gmail.com',
     url='https://github.com/FarAway6834/edprompt_env',
